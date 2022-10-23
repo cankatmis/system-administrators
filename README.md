@@ -18,11 +18,21 @@ unsafe intervals U and finally the starting and ending days of unsafe intervals 
 placed.
 
 Example:
-holidays.in                        holidays.out
-50                                 4
-3                                  1;4
-5;10                               11;11
-40;45                              25;39
-15;20                              46;50
-1                                  1
-12;24                              15;20
+
+holidays.in
+50
+3
+5;10
+40;45
+15;20
+1
+12;24
+
+holidays.out
+4
+1;4
+11;11
+25;39
+46;50
+1
+15;20
