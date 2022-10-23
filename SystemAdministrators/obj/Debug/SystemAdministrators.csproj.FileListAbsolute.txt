@@ -1,8 +1,0 @@
-C:\Users\ackat\Documents\GitHub\system-administrators\SystemAdministrators\obj\Debug\SystemAdministrators.csproj.AssemblyReference.cache
-C:\Users\ackat\Documents\GitHub\system-administrators\SystemAdministrators\obj\Debug\SystemAdministrators.csproj.SuggestedBindingRedirects.cache
-C:\Users\ackat\Documents\GitHub\system-administrators\SystemAdministrators\obj\Debug\SystemAdministrators.csproj.CoreCompileInputs.cache
-C:\Users\ackat\Documents\GitHub\system-administrators\SystemAdministrators\bin\Debug\SystemAdministrators.exe.config
-C:\Users\ackat\Documents\GitHub\system-administrators\SystemAdministrators\bin\Debug\SystemAdministrators.exe
-C:\Users\ackat\Documents\GitHub\system-administrators\SystemAdministrators\bin\Debug\SystemAdministrators.pdb
-C:\Users\ackat\Documents\GitHub\system-administrators\SystemAdministrators\obj\Debug\SystemAdministrators.exe
-C:\Users\ackat\Documents\GitHub\system-administrators\SystemAdministrators\obj\Debug\SystemAdministrators.pdb
